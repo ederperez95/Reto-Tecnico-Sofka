@@ -96,4 +96,24 @@ class ValidacionRespuesta:
         return self.resultado
 
 ################################################################################################################    
+class Menu:
+    def menuInicial():
+        print("============= Menu Inicio =============")
+        print("1. Iniciar sesion")
+        print("2. Crear cuenta")
+        print("3. Salir del Juego")
+        print("============================================")
 
+    def menuNuevoJuego():
+        print("============= Menu principal =============")
+        print("1. Nuevo Juego")
+        print("2. Cerrar sesion")
+        print("3. Salir del Juego")
+        print("============================================")
+
+    def menuGuardarUsuario():
+        print("============= Menu Guardado de usuario =============")
+        print("1. Nuevo Juego")
+        print("2. Cerrar sesion")
+        print("3. Salir del Juego")
+        print("============================================")
