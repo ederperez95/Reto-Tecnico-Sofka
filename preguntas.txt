@@ -1,25 +1,25 @@
-Nivel 1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 1; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel 1; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel 1; Pregunta_4; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel 1; Pregunta_5; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 2; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 2; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 2; Pregunta_4; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel 2; Pregunta_5; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 3; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 3; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 3; Pregunta_4; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel 3; Pregunta_5; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 4; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel 4; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel 4; Pregunta_4; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel 4; Pregunta_5; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel 5; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel 5; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel 5; Pregunta_4; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel 5; Pregunta_5; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 1; Si un futbolista anuncia su retirada, se dice que…; Se rompe la camisa; Cuelga las botas; Se corta la coleta; sale del armario; Cuelga las botas
+Nivel 1; ¿Cómo se llaman los saltamontes comestibles de México?; Chapulines; Cuchamá; Escamoles; Flip; Chapulines
+Nivel 1; ¿Cuántos segundos cuenta un árbitro de boxeo cuando un púgil cae con su espalda sobre el ring?; Tres; Cinco; Siete; Diez; Diez
+Nivel 1; La trufa blanca es…; Un hongo; Una raíz; Un tubérculo; Una hortaliza; Un hongo
+Nivel 1; ¿Qué quiere decir ´´driblear´´?;  Chulear; Doblar; Sobornar; Regatear; Regatear
+Nivel 2; ¿En qué país ha desarrollado la mayor parte su labor de investigación la primatóloga Jane Goodall?; Burundi; Tanzania; Kenia; Ruanda; Tanzania
+Nivel 2; ¿Qué revolución fue la última que vivió Isabel II como reina de España?; El motín de Esquilache; El motín de La Granja de San Ildefonso; La sublevación de los sargentos de San Gil; La Gloriosa; La Gloriosa
+Nivel 2; ¿Qué batalla supuso la derrota definitiva de Napoleón?; Lepanto; Watergate; Waterloo; Stalingrado; Waterloo
+Nivel 2; ¿Cuál es el país más pequeño de África?; Ghana; Burundi; Islas Seychelles; Mauricio; Islas Seychelles
+Nivel 2; La mantis religiosa tiene un oído, ¿dónde se encuentra?; En la cabeza; En el tórax; En el abdomen; En una antena; En la cabeza
+Nivel 3; ¿Qué ocurre siempre en un estuario?; Llueve con intensidad; Solo hay agua salada; Confluye agua dulce y salada; Solo hay agua dulce; Confluye agua dulce y salada
+Nivel 3; COI significa…; Comité de Ocultismo Irlandés; Comité Oriental de Ilustradores; Comité Observador Internacional; Comité Olímpico Internacional; Comité Olímpico Internacional
+Nivel 3; ¿Para qué se utiliza el contenedor rojo de reciclaje?; Desechos peligrosos; Plástico; Vidrio; Papel y cartón; Desechos peligrosos
+Nivel 3; ¿Cuál de estos músculos no está en la pierna?; Bíceps femoral; Sóleo; Esplenio; Cuádriceps; Esplenio
+Nivel 3; ¿Qué es el ´´chai´´?; Un arte marcial; Un saludo chino; Una mezcla de té; Una genuflexión tailandesa; Una mezcla de té
+Nivel 4; ¿De qué color es un toro completamente negro sin ningún pelo blanco?; Retinto; Zaíno; Salinero; Cárdeno; Retinto
+Nivel 4; Según la tradición cristiana, ¿quién traspasó a Jesucristo con la Santa Lanza?; Pilatos; Longinos; Judas Iscariote; Caifás; Longinos
+Nivel 4; ¿Cuál es el río más largo de Europa?; El Danubio; El Rin; El Volga; El Sena; El Volga
+Nivel 4; En una plutocracia, la sociedad está gobernada por…; Los inteligentes; Los ricos; Un tirano; Los científicos; Los ricos
+Nivel 4; ¿Qué tipo de roca se forma a partir del enfriamiento del magma?; Roca metamórfica; Roca ígnea; Roca sedimentaria; Roca detrítica; Roca ígnea
+Nivel 5; ¿Qué palabra no está aceptada por la Real Academia de la Lengua?;  Amá; Amigovio; Murciégalo; Visicitud; Visicitud
+Nivel 5; Si visitaras el Tate Modern, ¿en qué ciudad estarías?; Roma; Opcion_2; Londres; Berlín; Londres
+Nivel 5; Según el libro Guinness de los récords, el árbol más alto del mundo se llama…; Hyperion; Centurión; Gigante estratosférico; General Sherman; Hyperion
+Nivel 5; ¿Cuánto hay que rebajar un producto para dejarlo en el precio que tenía antes de subir un 25% su valor?; Un 25%; Un 50%; Un 20%; Un 10%; Un 20%
+Nivel 5; El triple en baloncesto, según la FIBA, se lanza a una distancia de…; 3 metros; 4,75 metros; 6,75 metros; 8 metros; 6,75 metros

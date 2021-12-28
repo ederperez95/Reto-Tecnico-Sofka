@@ -2,15 +2,16 @@ import csv
 import random
 import os
 
-def menuPrincipal(ListaDePreguntasClasificadasPorNivel):
 
+def menuInicioSesion():
     opcionCorrecta = False
     continuar = True
     while(continuar):
         while(not opcionCorrecta):
             print("============= Menu principal =============")
-            print("1. Nuevo Juego")
-            print("2. Salir del Juego")
+            print("1. Iniciar sesion")
+            print("2. Crear cuenta")
+            print("3. Salir del Juego")
             print("============================================")
 
             opcion = int(input("Seleccione una opcion: "))
@@ -18,6 +19,34 @@ def menuPrincipal(ListaDePreguntasClasificadasPorNivel):
             if opcion < 1 or opcion > 2:
                 print("Opcion incorrecta, ingrese una opcion nuevamente")
             elif opcion == 2:
+                print("Gracias por jugar!!")
+                continuar = False
+                break
+            else:
+                limpiarPantalla() 
+                Preguntas(ListaDePreguntasClasificadasPorNivel)
+
+            limpiarPantalla()    
+
+
+def menuInicioDeJuego(ListaDePreguntasClasificadasPorNivel):
+
+    opcionCorrecta = False
+    continuar = True
+    while(continuar):
+        while(not opcionCorrecta):
+            limpiarPantalla()
+            print("============= Menu principal =============")
+            print("1. Nuevo Juego")
+            print("2. Cerrar sesion")
+            print("3. Salir del Juego")
+            print("============================================")
+
+            opcion = int(input("Seleccione una opcion: "))
+
+            if opcion < 1 or opcion > 2:
+                print("Opcion incorrecta, ingrese una opcion nuevamente")
+            elif opcion == 3:
                 print("Gracias por jugar!!")
                 continuar = False
                 break
@@ -38,12 +67,17 @@ def Preguntas(ListaDePreguntasClasificadasPorNivel):
         mostrarPregunta(pregunta)
         print("5. Recuerda que puedes salir cuando desees con esta opcion. \n")
         opcion = int(input("Seleccione una opcion: "))
-        esSiguienteNivel = validaRespuesta(pregunta, opcion)
+        if opcion == 5:
+            banderaEsGanadorJuego = False
+            break
+        else:
+            esSiguienteNivel = validaRespuesta(pregunta, opcion)
         if esSiguienteNivel:
             respuestaCorrecta()
-        else:
+        else: 
             respuestaIncorrecta()
             banderaEsGanadorJuego = False
+            input("Presione cualquier tecla para continuar")
             limpiarPantalla()
             break
         
@@ -51,6 +85,7 @@ def Preguntas(ListaDePreguntasClasificadasPorNivel):
 
     if banderaEsGanadorJuego:
         ganadorDelJuego()
+        input("Presione cualquier tecla para continuar")
 
 def respuestaIncorrecta():
     print("No es la respuesta correcta pero no te desanimes, Sigue intentado!!\n\n")
@@ -76,7 +111,7 @@ def clasificarListaPreguntas():
     preguntasNivelCuatro = []
     preguntasNivelCinco = []
 
-    with open(r'preguntas.txt', mode='r') as preguntas:
+    with open(r'preguntas.txt', mode='r', encoding='utf-8') as preguntas:
         listaPreguntas = csv.reader(preguntas, delimiter = ';')
         for Pregunta in listaPreguntas:
 
@@ -97,20 +132,17 @@ def clasificarListaPreguntas():
     return ListaDePreguntasClasificadasPorNivel
 
 def mostrarPregunta(preguntaYRespuestas):
-
     nivel = preguntaYRespuestas[0]
     pregunta = preguntaYRespuestas[1]
     opcionUno = preguntaYRespuestas[2]
     opcionDos = preguntaYRespuestas[3]
     opcionTres = preguntaYRespuestas[4]
     opcionCuatro = preguntaYRespuestas[5]
-    enunciado = "\nResponde esta pregunta correspondiente al {0}. Para pasar a la siguiente ronda la pregunta es:\n\n {1}\n1. {2}\n2. {3}\n3. {4}\n4. {5}\n"
+
+    enunciado = "\nPara pasar a la siguiente ronda responde la pregunta correspondiente al {0}. la pregunta a responder es:\n\n{1}\n\n1. {2}\n2. {3}\n3. {4}\n4. {5}\n"
     print(enunciado.format(nivel, pregunta, opcionUno, opcionDos, opcionTres, opcionCuatro))
 
-
-
 def seleccionPreguntaRandom(listaPreguntasPorNivel):
-
     numeroDePreguntas = len(listaPreguntasPorNivel)
     numeroRandom = random.randrange(numeroDePreguntas)
     preguntaRandom = listaPreguntasPorNivel[numeroRandom]
