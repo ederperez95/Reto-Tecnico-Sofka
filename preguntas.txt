@@ -1,25 +1,25 @@
-Nivel_1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_1; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel_1; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel_1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel_1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_2; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_2; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel_2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_3; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_3; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel_3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_4; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel_4; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel_4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel_4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
-Nivel_5; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
-Nivel_5; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
-Nivel_5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
-Nivel_5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 1; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
+Nivel 1; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
+Nivel 1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
+Nivel 1; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 2; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 2; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
+Nivel 2; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 3; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 3; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
+Nivel 3; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 4; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
+Nivel 4; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
+Nivel 4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
+Nivel 4; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_2
+Nivel 5; Pregunta_2; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_3
+Nivel 5; Pregunta_3; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
+Nivel 5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_1
+Nivel 5; Pregunta_1; Opcion_1; Opcion_2; Opcion_3; Opcion_4; Opcion_4
