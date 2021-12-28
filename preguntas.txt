@@ -2,7 +2,7 @@ Nivel 1; Si un futbolista anuncia su retirada, se dice que…; Se rompe la camis
 Nivel 1; ¿Cómo se llaman los saltamontes comestibles de México?; Chapulines; Cuchamá; Escamoles; Flip; Chapulines
 Nivel 1; ¿Cuántos segundos cuenta un árbitro de boxeo cuando un púgil cae con su espalda sobre el ring?; Tres; Cinco; Siete; Diez; Diez
 Nivel 1; La trufa blanca es…; Un hongo; Una raíz; Un tubérculo; Una hortaliza; Un hongo
-Nivel 1; ¿Qué quiere decir ´´driblear´´?;  Chulear; Doblar; Sobornar; Regatear; Regatear
+Nivel 1; ¿Qué quiere decir driblear?;  Chulear; Doblar; Sobornar; Regatear; Regatear
 Nivel 2; ¿En qué país ha desarrollado la mayor parte su labor de investigación la primatóloga Jane Goodall?; Burundi; Tanzania; Kenia; Ruanda; Tanzania
 Nivel 2; ¿Qué revolución fue la última que vivió Isabel II como reina de España?; El motín de Esquilache; El motín de La Granja de San Ildefonso; La sublevación de los sargentos de San Gil; La Gloriosa; La Gloriosa
 Nivel 2; ¿Qué batalla supuso la derrota definitiva de Napoleón?; Lepanto; Watergate; Waterloo; Stalingrado; Waterloo
