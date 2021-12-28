@@ -6,4 +6,4 @@ ListaDePreguntasClasificadasPorNivel = funciones.clasificarListaPreguntas()
 
 #funciones.menuPrincipal()
 
-funciones.menuPrincipal(ListaDePreguntasClasificadasPorNivel)
+funciones.menuInicioDeJuego(ListaDePreguntasClasificadasPorNivel)
