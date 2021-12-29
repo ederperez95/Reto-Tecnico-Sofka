@@ -7,10 +7,11 @@ Adicionalmente se debe configurar en las variables del sistema la ruta donde se 
 Para correr el juego se debe: 
 1. Abrir una ventana de PowerShell.
 2. Cambiar de directorio en el PowerShell por uno en donde se quiera guardar el proyecto.
-3. Una vez el la ventana de PowerShell se encuantre direccionado a dicha ruta se ejecuta el comando "git init"
-4. Ejecutar el comando "git romote add origin "https://github.com/ederperez95/Reto-Tecnico-Sofka.git"
-5. Ejecutar el comando "git pull origin main"
-6. Ejecutar la instrucción "py main.py" o "python main.py"
-7. Disfrutar de un juego bastante retador.
+3. Una vez el la ventana de PowerShell se encuantre direccionado a dicha ruta se ejecuta el comando: git init
+4. Ejecutar el comando: git romote add origin "https://github.com/ederperez95/Reto-Tecnico-Sofka.git"
+5. Ejecutar el comando: git pull origin main
+6. Ejecutar la instrucción: clear
+7. Ejecutar la instrucción "py main.py" o "python main.py"
+8. Disfrutar de un juego bastante retador.
 
 Nota: Todos los archivos descargados del repositorio deben permanecer en la misma carpeta
