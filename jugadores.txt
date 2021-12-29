@@ -1,0 +1,3 @@
+Juan Pablo;0;Categoria 1;0
+Juan Felipe;0;Categoria 1;0
+Eder Perez;0;Categoria 1;0
