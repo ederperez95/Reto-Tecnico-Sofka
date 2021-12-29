@@ -15,3 +15,8 @@ Para correr el juego se debe:
 8. Disfrutar de un juego bastante retador.
 
 Nota: Todos los archivos descargados del repositorio deben permanecer en la misma carpeta
+
+Para la persistencia de datos del reto se usó archivos de texto plano.
+Dentro de los archivos de texto plano adjuntos separados por ";" se tiene lo siguiente:
+1. El archivo llamado jugadores.txt almacena los jugadores con la siguiente estructura de las columnas: nombre; premio; categoría; juegos ganados 
+2. El archivo preguntas.txt contiene las preguntas del reto, las columnas de dicho archivo son como sigue: categoría de la pregunta; pregunta; opción 1; opción 2; opción 3; opción 4; respuesta
