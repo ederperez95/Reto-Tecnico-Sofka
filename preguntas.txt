@@ -1,4 +1,4 @@
-Categoria 1;Si un futbolista anuncia su retirada, se dice que…;Se rompe la camisa; Cuelga las botas;Se corta la coleta;sale del armario;Cuelga las botas
+Categoria 1;Si un futbolista anuncia su retirada, se dice que…;Se rompe la camisa;Cuelga las botas;Se corta la coleta;sale del armario;Cuelga las botas
 Categoria 1;¿Cómo se llaman los saltamontes comestibles de México?;Chapulines;Cuchamá;Escamoles;Flip;Chapulines
 Categoria 1;¿Cuántos segundos cuenta un árbitro de boxeo cuando un púgil cae con su espalda sobre el ring?;Tres;Cinco;Siete;Diez;Diez
 Categoria 1;La trufa blanca es…;Un hongo;Una raíz;Un tubérculo;Una hortaliza;Un hongo
