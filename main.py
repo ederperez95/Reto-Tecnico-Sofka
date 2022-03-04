@@ -4,7 +4,7 @@ import Clases
 
 categoriasUsadas = ["Categoria 1", "Categoria 2", "Categoria 3", "Categoria 4", "Categoria 5"]
 
-
+funciones.limpiarPantalla()
 opcionCorrecta = False
 continuar = True
 Menu = Clases.Menu
